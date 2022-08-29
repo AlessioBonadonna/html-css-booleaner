@@ -1,0 +1,79 @@
+
+header div{
+    background-image: url("../bonus/img/pattern.png");
+    background-color: rgb(81, 160, 239);
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: 0 -5px;
+    background-size: 30%;
+    height: 75px;
+    display: flex;
+    margin-top: 0px;
+    
+
+}
+.logo{
+    max-width: 150px;
+}
+.grigio {
+    color:gray
+}
+.Sgrigio{
+    color:rgb(15, 117, 241);
+}
+main section span{
+    background-color: yellow;
+}
+table, th, td {
+    border: 0px solid black;
+
+  }
+th,td{
+    width:25%;
+}
+table {
+  border-spacing:0px;
+  
+}
+
+thead{
+    background-color:rgb(63, 156, 215);
+    color:white;
+}
+
+td{
+    
+    background-color:rgb(162, 204, 230) ;
+    height: 55px;
+}
+.none{
+    background-color: white;
+}
+h3{
+    color: gray;
+
+}
+.contenitore1{
+    background-image: url("../bonus/img/monitor.jpg");
+    width: 312px;
+    height: 208px;
+    color :white;
+    font-size: 25px;
+    
+}
+.contenitore2{
+    background-image: url("../bonus/img/graph.jpg");
+    width: 312px;
+    height: 208px;
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.piccolo{
+    font-size: small;
+    text-decoration: none;
+}
+.Ppiccolo{
+    font-size: small;
+    margin-top: 5px;;
+}
